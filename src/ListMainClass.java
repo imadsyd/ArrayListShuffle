@@ -11,6 +11,7 @@ public class ListMainClass {
         arrayListOfIntegers.add(2);
         arrayListOfIntegers.add(3);
         arrayListOfIntegers.add(4);
+        arrayListOfIntegers.add(5);
 
         System.out.println(arrayListOfIntegers);
         Collections.shuffle(arrayListOfIntegers);
